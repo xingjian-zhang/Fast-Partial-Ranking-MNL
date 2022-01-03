@@ -2,7 +2,7 @@
 
 This repo provides a PyTorch implementation for the CopulaGNN models as described in the following paper:
 
-Fast Learning of MNL Model From General Partial Rankings with Application to Network Formation Modeling
+[Fast Learning of MNL Model From General Partial Rankings with Application to Network Formation Modeling.](https://arxiv.org/abs/2112.15575)
 
 Jiaqi Ma*, Xingjian Zhang*, and Qiaozhu Mei. WSDM 2022.
 
