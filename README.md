@@ -6,6 +6,7 @@ This repo provides a PyTorch implementation for the CopulaGNN models as describe
 
 Jiaqi Ma*, Xingjian Zhang*, and Qiaozhu Mei. WSDM 2022.
 
+(*: Equal contribution.)
 
 ## Requirements
 The code requires the following packages.
